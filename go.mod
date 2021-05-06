@@ -1,4 +1,4 @@
-module github.com/pvtmert/terraform-provider-http
+module github.com/mubi/terraform-provider-http
 
 require (
 	github.com/hashicorp/hcl v1.0.0 // indirect
